@@ -1,5 +1,8 @@
 # Large CSV data files (too big for GitHub)
 *.csv
+*.pkl
+*.tex
+
 
 # Python cache
 __pycache__/
